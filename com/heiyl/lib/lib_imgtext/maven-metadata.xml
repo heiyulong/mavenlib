@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.heiyl.lib</groupId>
+  <artifactId>lib_imgtext</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200424090026</lastUpdated>
+  </versioning>
+</metadata>
