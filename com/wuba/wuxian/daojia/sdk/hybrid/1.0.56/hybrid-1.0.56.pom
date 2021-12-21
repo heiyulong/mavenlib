@@ -10,9 +10,9 @@
   <description>hybrid_core for Android</description>
   <dependencies>
     <dependency>
-      <groupId>WubaHybridSDK</groupId>
+      <groupId>com.wuba.wuxian.daojia.sdk</groupId>
       <artifactId>hybrid-web</artifactId>
-      <version>unspecified</version>
+      <version>1.0.56</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
