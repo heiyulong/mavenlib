@@ -3,7 +3,7 @@
   <groupId>com.wuba.wuxian.daojia.sdk</groupId>
   <artifactId>hybrid</artifactId>
   <versioning>
-    <release>1.0.59</release>
+    <release>1.0.60</release>
     <versions>
       <version>1.0.52</version>
       <version>1.0.53</version>
@@ -13,7 +13,8 @@
       <version>1.0.57</version>
       <version>1.0.58</version>
       <version>1.0.59</version>
+      <version>1.0.60</version>
     </versions>
-    <lastUpdated>20211221134414</lastUpdated>
+    <lastUpdated>20211222064142</lastUpdated>
   </versioning>
 </metadata>
